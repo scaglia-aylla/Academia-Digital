@@ -1,5 +1,5 @@
 # Academia-Digital
-Projeto Spring Boot
+Projeto Spring Boot Desenvolvido no Curso da Digital Innovation One
 
 Aprimorando os conhecimentos em:
 -Lógica de programação e POO;
